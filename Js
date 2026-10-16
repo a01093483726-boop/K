@@ -1,0 +1,12 @@
+{
+  "name": "tycoon-game",
+  "version": "1.0.0",
+  "description": "Render Node.js Tycoon Game",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
